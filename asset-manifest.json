@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OrderYourFood/static/css/main.370d475c.css",
+    "main.js": "/OrderYourFood/static/js/main.2848a706.js",
+    "index.html": "/OrderYourFood/index.html",
+    "main.370d475c.css.map": "/OrderYourFood/static/css/main.370d475c.css.map",
+    "main.2848a706.js.map": "/OrderYourFood/static/js/main.2848a706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.370d475c.css",
+    "static/js/main.2848a706.js"
+  ]
+}
